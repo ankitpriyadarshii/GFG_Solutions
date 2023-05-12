@@ -14,3 +14,5 @@ This Repository is for my GFG Practice problems solutions. The language used is 
 * [Problem 5](https://practice.geeksforgeeks.org/problems/largest-product/1) -> [Solution](https://github.com/ankitpriyadarshii/GFG_Solutions/blob/main/GFG_LargestProduct.cpp)
 
 * [Problem 6](https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1) -> [Solution](https://github.com/ankitpriyadarshii/GFG_Solutions/blob/main/GFG_TripletWithZeroSum.cpp)
+
+* [Problem 7](https://practice.geeksforgeeks.org/problems/minimum-distance-between-two-numbers/1) -> [Solution](https://github.com/ankitpriyadarshii/GFG_Solutions/blob/main/GFG_MinDistBetweenTwoNumbers.cpp)
